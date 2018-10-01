@@ -3,7 +3,7 @@
 This repository contains terraform code that creates a simple AWS EC2 instance
 
 ## Prerequisites:
-AWS account.
+AWS account
 SSH Keypair
 
 ## Usage
